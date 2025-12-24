@@ -1,0 +1,2 @@
+Model 1 (ResNet50 Transfer Learning) Test Loss: 0.5765
+Model 1 (ResNet50 Transfer Learning) Test Accuracy: 0.7500

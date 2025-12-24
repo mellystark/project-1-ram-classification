@@ -1,0 +1,5 @@
+=== DENEY SONUÇLARI (Özet) ===
+EXP-1 | Val Acc: 0.9545 | Test Acc: 0.8000
+EXP-2 | Val Acc: 1.0000 | Test Acc: 0.8500
+EXP-3 | Val Acc: 0.8182 | Test Acc: 0.8500
+EXP-4 | Val Acc: 0.5000 | Test Acc: 0.5000
